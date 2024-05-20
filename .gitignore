@@ -1,0 +1,22 @@
+# Ignore all __pycache__ directories
+**/__pycache__/
+
+# Ignore .pytest_cache directories
+.pytest_cache
+
+# Ignore all .pyc, .pyo and .pyd files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore all files that end with ~
+*~
+
+# Ignore all .DS_Store files
+.DS_Store
+
+# Ignore all log files
+*.log
+
+# Ignore the .vscode directory
+.vscode
